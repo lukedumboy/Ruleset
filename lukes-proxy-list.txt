@@ -1,2 +1,4 @@
 DOMAIN-SUFFIX,suo.yt
 DOMAIN-SUFFIX,fanmingming.com
+DOMAIN-SUFFIX,mxwljsq.xyz
+DOMAIN-SUFFIX,mxwljsq.com
