@@ -1,0 +1,5 @@
+# DOMAIN-SUFFIX,gaikai.com
+# DOMAIN-SUFFIX,sonyentertainmentnetwork.com
+# DOMAIN-KEYWORD,playstation
+# DOMAIN-SUFFIX,playstation.net
+# DOMAIN-SUFFIX,sony.com
