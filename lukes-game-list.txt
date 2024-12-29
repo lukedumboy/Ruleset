@@ -3,3 +3,8 @@
 # DOMAIN-KEYWORD,playstation
 # DOMAIN-SUFFIX,playstation.net
 # DOMAIN-SUFFIX,sony.com
+DOMAIN-SUFFIX,kefir.games
+DOMAIN-SUFFIX,kefirgames.ru
+DOMAIN-SUFFIX,applvn.com
+DOMAIN-SUFFIX,devtodev.com
+DOMAIN-SUFFIX,pangle.io
