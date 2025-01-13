@@ -1,4 +1,0 @@
-DOMAIN-SUFFIX,embyplus.org
-DOMAIN-SUFFIX,maoxiong.cloud
-DOMAIN,hxd.as174.de
-DOMAIN,emby3.misakaf.org
