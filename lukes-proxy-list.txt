@@ -12,3 +12,4 @@ DOMAIN-SUFFIX,discordapp.com
 DOMAIN-SUFFIX,discord.com
 DOMAIN-SUFFIX,sub.maoxiongnet.com
 DOMAIN-SUFFIX,mxwljsq.xyz
+DOMAIN,faka.nvidia.rip
