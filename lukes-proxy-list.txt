@@ -12,4 +12,5 @@ DOMAIN-SUFFIX,discordapp.com
 DOMAIN-SUFFIX,discord.com
 DOMAIN-SUFFIX,sub.maoxiongnet.com
 DOMAIN-SUFFIX,mxwljsq.xyz
+DOMAIN-SUFFIX,folivora.ai
 DOMAIN,faka.nvidia.rip
