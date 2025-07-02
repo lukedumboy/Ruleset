@@ -1,0 +1,6 @@
+DOMAIN-SUFFIX,influxdata.com
+DOMAIN-KEYWORD,raycast
+DOMAIN-SUFFIX,imazing.com
+DOMAIN-SUFFIX,visualstudio.com
+DOMAIN-SUFFIX,nssurge.com
+DOMAIN-SUFFIX,jetbrains.com
