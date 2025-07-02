@@ -4,3 +4,7 @@ DOMAIN-SUFFIX,imazing.com
 DOMAIN-SUFFIX,visualstudio.com
 DOMAIN-SUFFIX,nssurge.com
 DOMAIN-SUFFIX,jetbrains.com
+DOMAIN-SUFFIX,pdfexpert.com
+DOMAIN-SUFFIX,colamanga.com
+DOMAIN-SUFFIX,rustdesk.com
+DOMAIN-SUFFIX,mokeedev.com
